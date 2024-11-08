@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "8761d883-da50-4d7f-9f67-81f365073614",
+    "name": "Vicky Bashirian-Dare",
+    "phone": "873-861-1485 x954",
+    "email": "Mitchell10@hotmail.com",
+    "job": "Chief Program Strategist"
+  },
+  {
+    "id": "3ebc94bd-9c6e-444d-a763-edf8f97261e9",
+    "name": "Scott Swift",
+    "phone": "1-673-836-4898 x6586",
+    "email": "Jonas_Rippin@gmail.com",
+    "job": "District Creative Orchestrator"
+  },
+  {
+    "id": "82210f74-def7-422d-9ef3-5ebcb30427cd",
+    "name": "Lorraine Hills",
+    "phone": "992.805.8335 x747",
+    "email": "Danial.Swift@yahoo.com",
+    "job": "Senior Integration Architect"
+  },
+  {
+    "id": "9a1752be-ffca-451a-8f08-0b3507649932",
+    "name": "Miss Alice Heidenreich",
+    "phone": "(862) 699-2473 x71209",
+    "email": "Jimmie5@hotmail.com",
+    "job": "Forward Factors Analyst"
+  },
+  {
+    "id": "4f2faaf7-085e-44a9-af58-5d7929c85901",
+    "name": "Cody Friesen",
+    "phone": "1-897-727-3522 x994",
+    "email": "Leta73@gmail.com",
+    "job": "Customer Integration Agent"
+  }
+]
